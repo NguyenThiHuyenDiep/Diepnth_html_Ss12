@@ -1,0 +1,14 @@
+#form{
+    width:340px;
+    margin:auto;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+
+}
+.i{
+    width:33px;
+    height:33px;
+    color:black;
+}
