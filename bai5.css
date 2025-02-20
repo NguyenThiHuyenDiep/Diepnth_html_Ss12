@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+}
+.row:nth-child(1){
+    background-color: black;
+    color:white;
+    font-size: large;
+}
+.row:nth-child(2n){
+    background-color: rgb(141, 135, 135);
+}
+.col{
+    border: 1px solid red;
+}
+.container{
+    border: 1px solid rgb(131, 128, 128);
+}
+.c{
+    border: 1px solid rgb(134, 130, 130);
+}
+.v{
+    border: 1px solid rgb(140, 135, 135);
+}
